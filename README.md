@@ -3,6 +3,6 @@ Automated Exploratory Data Analysis Dashboard. Users can load datasets (Excel , 
 
 ![Alt text](EDA3.png?raw=true "Optional Title")
 
-![Alt text](EDA4.png?raw=true "Optional Title")
+![Alt text](EDA2.png?raw=true "Optional Title")
 
 ![Alt text](EDA14.png?raw=true "Optional Title")
